@@ -1,0 +1,9 @@
+* {
+    /* Poppins font default */
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
